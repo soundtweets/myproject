@@ -1,0 +1,11 @@
+{
+  "name": "myproject",
+  "description": "FrontEnd Lab",
+  "scripts": {
+  },
+  "env": {
+  },
+  "addons": [
+
+  ]
+}
