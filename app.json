@@ -1,11 +1,19 @@
 {
   "name": "myproject",
   "description": "FrontEnd Lab",
+  "keywords": [
+    "HTML5",
+  ],
   "scripts": {
   },
   "env": {
   },
   "addons": [
 
+  ]
+  "buildpacks": [
+    {
+      "url": "https://github.com/stomita/heroku-buildpack-phantomjs"
+    }
   ]
 }
